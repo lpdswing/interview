@@ -10,5 +10,6 @@ export default defineUserConfig({
         // Public 文件路径
         logo: 'favicon.ico',
     }),
+    base: '/interview/'
 })
 

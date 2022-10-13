@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "技术面试基础知识, 算法, 网络, 操作系统, 数据库, Python",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",

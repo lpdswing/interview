@@ -9,10 +9,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lpdswing/interview.git"
-  },
+  "repository": "git+https://github.com/lpdswing/interview.git",
   "author": "lpdswing",
   "license": "ISC",
   "bugs": {

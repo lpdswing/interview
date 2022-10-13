@@ -1,0 +1,24 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "技术面试基础知识, 算法, 网络, 操作系统, 数据库, Python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpdswing/interview.git"
+  },
+  "author": "lpdswing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpdswing/interview/issues"
+  },
+  "homepage": "https://github.com/lpdswing/interview#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  }
+}

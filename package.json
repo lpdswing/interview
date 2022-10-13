@@ -21,5 +21,8 @@
   "homepage": "https://github.com/lpdswing/interview#readme",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.51"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
   }
 }

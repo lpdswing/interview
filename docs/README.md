@@ -24,8 +24,16 @@
 
 ## :shaved_ice: 面向对象
 - [面向对象思想](面向对象/面向对象思想.md)
-- [设计模式]()
+- [设计模式](面向对象/设计模式/README.md)
 
-## 致谢
+## :seedling: 编码实践
+- [Git](编码实践/Git.md)
+- [Docker](编码实践/Docker.md)
+- [正则表达式](编码实践/正则表达式.md)
+
+## :whale: 算法
+- [基础](算法/基础/README.md)
+
+## :cyclone: 致谢
 - 部分文档来源
     - https://github.com/CyC2018/CS-Notes

@@ -15,7 +15,7 @@ export default defineUserConfig({
             {text: 'Github', link: 'https://github.com/lpdswing/interview'}
         ]
     }),
-    base: '/interview/',
+    base: process.env.BASE_URL || '/',
     plugins: [
         docsearchPlugin({}),
     ],
